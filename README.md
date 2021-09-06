@@ -1,4 +1,3 @@
-[![CodeFactor](https://www.codefactor.io/repository/github/beatzoid/beatzoid.github.io/badge)](https://www.codefactor.io/repository/github/beatzoid/beatzoid.github.io)
-# beatzoid.github.io
+# Portfolio Website
 
-My github.io website
+This is my portfolio website written using Typescript, Next.js, and TailwindCSS
