@@ -5,7 +5,16 @@ module.exports = {
     ],
     darkMode: false, // or 'media' or 'class'
     theme: {
-        extend: {}
+        extend: {
+            colors: {
+                green: {
+                    DEFAULT: "#00f260"
+                }
+            }
+        },
+        fontFamily: {
+            kaushan: ["Kaushan Script"]
+        }
     },
     variants: {
         extend: {}
