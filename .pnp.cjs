@@ -41,6 +41,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
+            ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15"],
             ["postcss", "npm:8.3.6"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
@@ -4070,6 +4071,36 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD",
         }]
       ]],
+      ["next-themes", [
+        ["npm:0.0.15", {
+          "packageLocation": "./.yarn/cache/next-themes-npm-0.0.15-d4a94db0f2-c85793fa07.zip/node_modules/next-themes/",
+          "packageDependencies": [
+            ["next-themes", "npm:0.0.15"]
+          ],
+          "linkType": "SOFT",
+        }],
+        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15", {
+          "packageLocation": "./.yarn/__virtual__/next-themes-virtual-bb0d126141/0/cache/next-themes-npm-0.0.15-d4a94db0f2-c85793fa07.zip/node_modules/next-themes/",
+          "packageDependencies": [
+            ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15"],
+            ["@types/next", null],
+            ["@types/react", "npm:17.0.20"],
+            ["@types/react-dom", null],
+            ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
+            ["react", "npm:17.0.2"],
+            ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"]
+          ],
+          "packagePeers": [
+            "@types/next",
+            "@types/react-dom",
+            "@types/react",
+            "next",
+            "react-dom",
+            "react"
+          ],
+          "linkType": "HARD",
+        }]
+      ]],
       ["node-emoji", [
         ["npm:1.11.0", {
           "packageLocation": "./.yarn/cache/node-emoji-npm-1.11.0-dd2f09050c-e8c856c04a.zip/node_modules/node-emoji/",
@@ -4644,6 +4675,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
+            ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15"],
             ["postcss", "npm:8.3.6"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],

@@ -12,7 +12,7 @@ const index = () => {
                 limits on what you can create, other than your imagination
             </h5>
             <div
-                className="flex-grow p-4 mt-5 bg-gray-400"
+                className="flex-grow p-4 mt-5 bg-gray-400 dark:bg-dark-100"
                 style={{ marginLeft: "-1.5rem", marginRight: "-1.5rem" }}
             >
                 <h6 className="my-3 text-xl font-bold tracking-wide">
@@ -21,7 +21,7 @@ const index = () => {
                 <div className="grid gap-6 lg:grid-cols-2 ">
                     {services.map((service) => (
                         <>
-                            <div className="bg-gray-200 rounded-lg lg:col-span-1">
+                            <div className="bg-gray-200 rounded-lg dark:bg-dark-200 lg:col-span-1">
                                 <ServiceCard
                                     service={service}
                                     key={service.title}
