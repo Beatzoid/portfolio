@@ -42,7 +42,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15"],
-            ["postcss", "npm:8.3.6"],
+            ["postcss", "npm:8.3.9"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.2.0"],
@@ -967,7 +967,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fraction.js", "npm:4.1.1"],
             ["normalize-range", "npm:0.1.2"],
             ["picocolors", "npm:0.2.1"],
-            ["postcss", "npm:8.3.6"],
+            ["postcss", "npm:8.3.9"],
             ["postcss-value-parser", "npm:4.1.0"]
           ],
           "packagePeers": [
@@ -3972,6 +3972,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["nanoid", "npm:3.1.25"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:3.1.29", {
+          "packageLocation": "./.yarn/cache/nanoid-npm-3.1.29-17cd9c0f26-8837bc351a.zip/node_modules/nanoid/",
+          "packageDependencies": [
+            ["nanoid", "npm:3.1.29"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["native-url", [
@@ -4706,7 +4713,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:11.1.2"],
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15"],
-            ["postcss", "npm:8.3.6"],
+            ["postcss", "npm:8.3.9"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.2.0"],
@@ -4733,6 +4740,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["postcss", "npm:8.3.6"],
             ["colorette", "npm:1.3.0"],
             ["nanoid", "npm:3.1.25"],
+            ["source-map-js", "npm:0.6.2"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:8.3.9", {
+          "packageLocation": "./.yarn/cache/postcss-npm-8.3.9-f40ddb7d0e-b64d0e59bc.zip/node_modules/postcss/",
+          "packageDependencies": [
+            ["postcss", "npm:8.3.9"],
+            ["nanoid", "npm:3.1.29"],
+            ["picocolors", "npm:0.2.1"],
             ["source-map-js", "npm:0.6.2"]
           ],
           "linkType": "HARD",
@@ -4787,7 +4804,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["postcss-nested", "virtual:3741af844f4c01b5c0797706241993659fdbd7412b5d8e39610fe56349ab45355359cd328eb28837002ebff6aa53926a7fa65592a884422efc685d9c0b3e68ac#npm:5.0.6"],
             ["@types/postcss", null],
-            ["postcss", "npm:8.3.6"],
+            ["postcss", "npm:8.3.9"],
             ["postcss-selector-parser", "npm:6.0.6"]
           ],
           "packagePeers": [
@@ -5990,7 +6007,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["node-emoji", "npm:1.11.0"],
             ["normalize-path", "npm:3.0.0"],
             ["object-hash", "npm:2.2.0"],
-            ["postcss", "npm:8.3.6"],
+            ["postcss", "npm:8.3.9"],
             ["postcss-js", "npm:3.0.3"],
             ["postcss-load-config", "virtual:3741af844f4c01b5c0797706241993659fdbd7412b5d8e39610fe56349ab45355359cd328eb28837002ebff6aa53926a7fa65592a884422efc685d9c0b3e68ac#npm:3.1.0"],
             ["postcss-nested", "virtual:3741af844f4c01b5c0797706241993659fdbd7412b5d8e39610fe56349ab45355359cd328eb28837002ebff6aa53926a7fa65592a884422efc685d9c0b3e68ac#npm:5.0.6"],
