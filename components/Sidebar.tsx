@@ -19,7 +19,6 @@ const Sidebar = () => {
                 alt="Avatar"
                 width="128"
                 height="128"
-                placeholder="blur"
                 className="mx-auto rounded-full"
             />
             <h3 className="my-4 text-3xl font-medium tracking-wider font-kaushan">

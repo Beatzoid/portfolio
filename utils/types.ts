@@ -5,3 +5,15 @@ export interface IService {
     about: string;
     Icon: IconType;
 }
+
+export interface IProject {
+    name: string;
+    description: string;
+    image_path: string;
+    deployed_url: string;
+    github_url: string;
+    category: Category[];
+    tags: string[];
+}
+
+export type Category = "react" | "node" | "express" | "mongo";

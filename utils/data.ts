@@ -1,7 +1,8 @@
 import { RiComputerLine } from "react-icons/ri";
 import { FaServer, FaDiscord } from "react-icons/fa";
 import { AiOutlineApi } from "react-icons/ai";
-import { IService } from "./types";
+
+import { IProject, IService } from "./types";
 
 export const services: IService[] = [
     {
@@ -18,10 +19,18 @@ export const services: IService[] = [
         title: "API Development",
         about: "I can develop robust REST APIs using <b>Express</b> or <b>Fastify</b> & <b>Node.js</b> ",
         Icon: AiOutlineApi
-    },
+    }
+];
+
+export const projects: IProject[] = [
     {
-        title: "Discord Bot Development",
-        about: "I can develop stunning Discord bots using <b>discord.js</b>",
-        Icon: FaDiscord
+        name: "Netflix Clone",
+        description:
+            "A Netflix clone made using React. Note: you cannot actually watch movies on it unfortunately",
+        image_path: "/images/netflix.jpg",
+        deployed_url: "https://beat-netflix-clone.vercel.app/browse",
+        github_url: "https://github.com/app-clones/netflix-clone",
+        category: ["react"],
+        tags: ["React", "Typescript"]
     }
 ];
