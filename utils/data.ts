@@ -1,5 +1,5 @@
 import { RiComputerLine } from "react-icons/ri";
-import { FaServer, FaDiscord } from "react-icons/fa";
+import { FaServer } from "react-icons/fa";
 import { AiOutlineApi } from "react-icons/ai";
 
 import { IProject, IService } from "./types";
@@ -24,6 +24,7 @@ export const services: IService[] = [
 
 export const projects: IProject[] = [
     {
+        id: 1,
         name: "Netflix Clone",
         description:
             "A Netflix clone made using React. Note: you cannot actually watch movies on it unfortunately",

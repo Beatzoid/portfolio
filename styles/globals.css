@@ -2,8 +2,7 @@
 @tailwind components;
 @tailwind utilities;
 
-/* TODO: use tailwind  */
 body {
-    background-color: black;
     font-family: sans-serif;
+    background-color: #354358;
 }
