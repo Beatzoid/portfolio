@@ -35,7 +35,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         [null, {
           "packageLocation": "./",
           "packageDependencies": [
-            ["@types/node", "npm:16.11.0"],
+            ["@types/node", "npm:16.11.6"],
             ["@types/react", "npm:17.0.32"],
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.3.7"],
             ["eslint", "npm:7.32.0"],
@@ -489,10 +489,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/node", [
-        ["npm:16.11.0", {
-          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.0-75617d0fee-194ae80ec7.zip/node_modules/@types/node/",
+        ["npm:16.11.6", {
+          "packageLocation": "./.yarn/cache/@types-node-npm-16.11.6-3a38cc239a-6e19634766.zip/node_modules/@types/node/",
           "packageDependencies": [
-            ["@types/node", "npm:16.11.0"]
+            ["@types/node", "npm:16.11.6"]
           ],
           "linkType": "HARD",
         }],
@@ -5012,7 +5012,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["portfolio-website", "workspace:."],
-            ["@types/node", "npm:16.11.0"],
+            ["@types/node", "npm:16.11.6"],
             ["@types/react", "npm:17.0.32"],
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.3.7"],
             ["eslint", "npm:7.32.0"],
