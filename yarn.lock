@@ -2280,14 +2280,14 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^5.0.2":
-  version: 5.0.2
-  resolution: "framer-motion@npm:5.0.2"
+"framer-motion@npm:^5.2.0":
+  version: 5.2.0
+  resolution: "framer-motion@npm:5.2.0"
   dependencies:
     "@emotion/is-prop-valid": ^0.8.2
     framesync: 6.0.1
     hey-listen: ^1.0.8
-    popmotion: 10.0.2
+    popmotion: 11.0.0
     style-value-types: 5.0.0
     tslib: ^2.1.0
   peerDependencies:
@@ -2296,7 +2296,7 @@ __metadata:
   dependenciesMeta:
     "@emotion/is-prop-valid":
       optional: true
-  checksum: 000e299a3084076f58a82390fc789ffbafea498cfceb554eebc17c6f4e921669ed483216ebd4b333cc93f3783ec915535e5cee6918d8902389060cbe6dfe7dca
+  checksum: 5478c4692f514d9789499272d000824f81683f7c5ac5ea1c0feb7587b7d8156000597ee105e963a968172df0aa24c68ead37d8b3ddcbd3db06cc3b5d7d303152
   languageName: node
   linkType: hard
 
@@ -4169,15 +4169,15 @@ __metadata:
   languageName: node
   linkType: hard
 
-"popmotion@npm:10.0.2":
-  version: 10.0.2
-  resolution: "popmotion@npm:10.0.2"
+"popmotion@npm:11.0.0":
+  version: 11.0.0
+  resolution: "popmotion@npm:11.0.0"
   dependencies:
     framesync: ^6.0.1
     hey-listen: ^1.0.8
     style-value-types: 5.0.0
     tslib: ^2.1.0
-  checksum: 6c793f637a5dd9861edca257eac523c2d6c1d895399e9320562c26c2f2a2d1288af1892925af5bc88e091e0444b4478f352772b7d1a5ba1b972cd889d1560d4a
+  checksum: 0e214895269bb3c9d2c5cbed2229d399cdea118f40cfd95f96b176439edf09d16becdef3dc3b820a6f53ab02a14e6047f04c89ee6991ddbd8b8194d7cfa59f0b
   languageName: node
   linkType: hard
 
@@ -4190,7 +4190,7 @@ __metadata:
     autoprefixer: ^10.4.0
     eslint: 7.32.0
     eslint-config-next: 12.0.2
-    framer-motion: ^5.0.2
+    framer-motion: ^5.2.0
     next: 12.0.2
     next-themes: ^0.0.15
     postcss: ^8.3.11
