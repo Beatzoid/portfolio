@@ -47,7 +47,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.29.2"],
+            ["sharp", "npm:0.29.3"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:2.2.19"],
             ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"]
           ],
@@ -1904,11 +1904,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["decompress-response", [
-        ["npm:4.2.1", {
-          "packageLocation": "./.yarn/cache/decompress-response-npm-4.2.1-abe5b4ebe4-4e783ca4df.zip/node_modules/decompress-response/",
+        ["npm:6.0.0", {
+          "packageLocation": "./.yarn/cache/decompress-response-npm-6.0.0-359de2878c-d377cf47e0.zip/node_modules/decompress-response/",
           "packageDependencies": [
-            ["decompress-response", "npm:4.2.1"],
-            ["mimic-response", "npm:2.1.0"]
+            ["decompress-response", "npm:6.0.0"],
+            ["mimic-response", "npm:3.1.0"]
           ],
           "linkType": "HARD",
         }]
@@ -4051,10 +4051,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["mimic-response", [
-        ["npm:2.1.0", {
-          "packageLocation": "./.yarn/cache/mimic-response-npm-2.1.0-037463e454-014fad6ab9.zip/node_modules/mimic-response/",
+        ["npm:3.1.0", {
+          "packageLocation": "./.yarn/cache/mimic-response-npm-3.1.0-a4a24b4e96-25739fee32.zip/node_modules/mimic-response/",
           "packageDependencies": [
-            ["mimic-response", "npm:2.1.0"]
+            ["mimic-response", "npm:3.1.0"]
           ],
           "linkType": "HARD",
         }]
@@ -4383,11 +4383,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["node-abi", [
-        ["npm:2.30.1", {
-          "packageLocation": "./.yarn/cache/node-abi-npm-2.30.1-36a2c4e28a-3f4b0c912c.zip/node_modules/node-abi/",
+        ["npm:3.3.0", {
+          "packageLocation": "./.yarn/cache/node-abi-npm-3.3.0-098df164e7-77052d9779.zip/node_modules/node-abi/",
           "packageDependencies": [
-            ["node-abi", "npm:2.30.1"],
-            ["semver", "npm:5.7.1"]
+            ["node-abi", "npm:3.3.0"],
+            ["semver", "npm:7.3.5"]
           ],
           "linkType": "HARD",
         }]
@@ -4962,7 +4962,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.29.2"],
+            ["sharp", "npm:0.29.3"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:2.2.19"],
             ["typescript", "patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=32657b"]
           ],
@@ -5088,21 +5088,21 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["prebuild-install", [
-        ["npm:6.1.4", {
-          "packageLocation": "./.yarn/cache/prebuild-install-npm-6.1.4-dba03730c6-de4313eda8.zip/node_modules/prebuild-install/",
+        ["npm:7.0.0", {
+          "packageLocation": "./.yarn/cache/prebuild-install-npm-7.0.0-6678eb1e5c-413783f746.zip/node_modules/prebuild-install/",
           "packageDependencies": [
-            ["prebuild-install", "npm:6.1.4"],
+            ["prebuild-install", "npm:7.0.0"],
             ["detect-libc", "npm:1.0.3"],
             ["expand-template", "npm:2.0.3"],
             ["github-from-package", "npm:0.0.0"],
             ["minimist", "npm:1.2.5"],
             ["mkdirp-classic", "npm:0.5.3"],
             ["napi-build-utils", "npm:1.0.2"],
-            ["node-abi", "npm:2.30.1"],
+            ["node-abi", "npm:3.3.0"],
             ["npmlog", "npm:4.1.2"],
             ["pump", "npm:3.0.0"],
             ["rc", "npm:1.2.8"],
-            ["simple-get", "npm:3.1.0"],
+            ["simple-get", "npm:4.0.0"],
             ["tar-fs", "npm:2.1.1"],
             ["tunnel-agent", "npm:0.6.0"]
           ],
@@ -5737,17 +5737,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["sharp", [
-        ["npm:0.29.2", {
-          "packageLocation": "./.yarn/unplugged/sharp-npm-0.29.2-dcd9e37100/node_modules/sharp/",
+        ["npm:0.29.3", {
+          "packageLocation": "./.yarn/unplugged/sharp-npm-0.29.3-70033a2ec2/node_modules/sharp/",
           "packageDependencies": [
-            ["sharp", "npm:0.29.2"],
+            ["sharp", "npm:0.29.3"],
             ["color", "npm:4.0.1"],
             ["detect-libc", "npm:1.0.3"],
             ["node-addon-api", "npm:4.2.0"],
             ["node-gyp", "npm:8.2.0"],
-            ["prebuild-install", "npm:6.1.4"],
+            ["prebuild-install", "npm:7.0.0"],
             ["semver", "npm:7.3.5"],
-            ["simple-get", "npm:3.1.0"],
+            ["simple-get", "npm:4.0.0"],
             ["tar-fs", "npm:2.1.1"],
             ["tunnel-agent", "npm:0.6.0"]
           ],
@@ -5813,11 +5813,11 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["simple-get", [
-        ["npm:3.1.0", {
-          "packageLocation": "./.yarn/cache/simple-get-npm-3.1.0-8c6f03c4cd-cca91a9ab2.zip/node_modules/simple-get/",
+        ["npm:4.0.0", {
+          "packageLocation": "./.yarn/cache/simple-get-npm-4.0.0-14ed0bd6c2-8af4fb788b.zip/node_modules/simple-get/",
           "packageDependencies": [
-            ["simple-get", "npm:3.1.0"],
-            ["decompress-response", "npm:4.2.1"],
+            ["simple-get", "npm:4.0.0"],
+            ["decompress-response", "npm:6.0.0"],
             ["once", "npm:1.4.0"],
             ["simple-concat", "npm:1.0.1"]
           ],
