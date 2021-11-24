@@ -43,7 +43,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:5.3.3"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.0.4"],
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15"],
-            ["postcss", "npm:8.4.0"],
+            ["postcss", "npm:8.4.1"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
@@ -1040,7 +1040,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["fraction.js", "npm:4.1.1"],
             ["normalize-range", "npm:0.1.2"],
             ["picocolors", "npm:1.0.0"],
-            ["postcss", "npm:8.4.0"],
+            ["postcss", "npm:8.4.1"],
             ["postcss-value-parser", "npm:4.1.0"]
           ],
           "packagePeers": [
@@ -4958,7 +4958,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:5.3.3"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.0.4"],
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.0.15"],
-            ["postcss", "npm:8.4.0"],
+            ["postcss", "npm:8.4.1"],
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
@@ -4990,10 +4990,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:8.4.0", {
-          "packageLocation": "./.yarn/cache/postcss-npm-8.4.0-cd5eba50f8-5139eb1b87.zip/node_modules/postcss/",
+        ["npm:8.4.1", {
+          "packageLocation": "./.yarn/cache/postcss-npm-8.4.1-6c95363249-89ede712cc.zip/node_modules/postcss/",
           "packageDependencies": [
-            ["postcss", "npm:8.4.0"],
+            ["postcss", "npm:8.4.1"],
             ["nanoid", "npm:3.1.30"],
             ["picocolors", "npm:1.0.0"],
             ["source-map-js", "npm:1.0.1"]
@@ -5050,7 +5050,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["postcss-nested", "virtual:a1a3e7a50db5d75165263e2ce0f324c5f7524fe00a4745bf75447d21bcd3b88ebe244c6c16a70936583ddc07a69da2f8c3eff744d17cc98a8e48cec8821a0830#npm:5.0.6"],
             ["@types/postcss", null],
-            ["postcss", "npm:8.4.0"],
+            ["postcss", "npm:8.4.1"],
             ["postcss-selector-parser", "npm:6.0.6"]
           ],
           "packagePeers": [
@@ -6346,7 +6346,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["node-emoji", "npm:1.11.0"],
             ["normalize-path", "npm:3.0.0"],
             ["object-hash", "npm:2.2.0"],
-            ["postcss", "npm:8.4.0"],
+            ["postcss", "npm:8.4.1"],
             ["postcss-js", "npm:3.0.3"],
             ["postcss-load-config", "virtual:a1a3e7a50db5d75165263e2ce0f324c5f7524fe00a4745bf75447d21bcd3b88ebe244c6c16a70936583ddc07a69da2f8c3eff744d17cc98a8e48cec8821a0830#npm:3.1.0"],
             ["postcss-nested", "virtual:a1a3e7a50db5d75165263e2ce0f324c5f7524fe00a4745bf75447d21bcd3b88ebe244c6c16a70936583ddc07a69da2f8c3eff744d17cc98a8e48cec8821a0830#npm:5.0.6"],
