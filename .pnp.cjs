@@ -49,7 +49,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
             ["sharp", "npm:0.29.3"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.0"],
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b"]
           ],
           "linkType": "SOFT",
         }]
@@ -618,7 +618,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@typescript-eslint/typescript-estree", "virtual:fdbbdf54691f46a124e849a9690145dc4d0c7bc131b0b49fc6b0986e3aebc4cc0572cc8108ae58aef2abf206ada62e615702557f8096484c35b3a7530b1adfeb#npm:5.5.0"],
             ["debug", "virtual:fdbbdf54691f46a124e849a9690145dc4d0c7bc131b0b49fc6b0986e3aebc4cc0572cc8108ae58aef2abf206ada62e615702557f8096484c35b3a7530b1adfeb#npm:4.3.3"],
             ["eslint", "npm:7.32.0"],
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b"]
           ],
           "packagePeers": [
             "@types/eslint",
@@ -667,7 +667,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["is-glob", "npm:4.0.3"],
             ["semver", "npm:7.3.5"],
             ["tsutils", "virtual:b83248a4a81991ad08e8149a76e2f564b7392eeaa05fd530df2d30296449aea3767caad2a692f7e145417454b34eb32cd39087fcf9999a7f4acb6b0bfc143281#npm:3.21.0"],
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b"]
           ],
           "packagePeers": [
             "typescript"
@@ -2376,7 +2376,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["eslint-plugin-react", "virtual:9b1712b01da90f70a776d97de80fc1ab73f6586606d9d2bc92098349c3fba479471fd5d388ea7afe4cdf5508820d47f04243f2ab6b4f01b638af4febb446ba1e#npm:7.27.1"],
             ["eslint-plugin-react-hooks", "virtual:9b1712b01da90f70a776d97de80fc1ab73f6586606d9d2bc92098349c3fba479471fd5d388ea7afe4cdf5508820d47f04243f2ab6b4f01b638af4febb446ba1e#npm:4.3.0"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.0.7"],
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b"]
           ],
           "packagePeers": [
             "@types/eslint",
@@ -4910,7 +4910,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
             ["sharp", "npm:0.29.3"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.0"],
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b"]
           ],
           "linkType": "SOFT",
         }]
@@ -6370,7 +6370,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["tsutils", "virtual:b83248a4a81991ad08e8149a76e2f564b7392eeaa05fd530df2d30296449aea3767caad2a692f7e145417454b34eb32cd39087fcf9999a7f4acb6b0bfc143281#npm:3.21.0"],
             ["@types/typescript", null],
             ["tslib", "npm:1.14.1"],
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b"]
           ],
           "packagePeers": [
             "@types/typescript",
@@ -6425,10 +6425,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["typescript", [
-        ["patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b", {
-          "packageLocation": "./.yarn/cache/typescript-patch-4998a27e42-02cf0f190f.zip/node_modules/typescript/",
+        ["patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b", {
+          "packageLocation": "./.yarn/cache/typescript-patch-b4b4a55282-79fc980003.zip/node_modules/typescript/",
           "packageDependencies": [
-            ["typescript", "patch:typescript@npm%3A4.5.2#~builtin<compat/typescript>::version=4.5.2&hash=32657b"]
+            ["typescript", "patch:typescript@npm%3A4.5.3#~builtin<compat/typescript>::version=4.5.3&hash=32657b"]
           ],
           "linkType": "HARD",
         }]
