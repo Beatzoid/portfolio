@@ -2363,9 +2363,9 @@ __metadata:
   languageName: node
   linkType: hard
 
-"framer-motion@npm:^5.4.4":
-  version: 5.4.4
-  resolution: "framer-motion@npm:5.4.4"
+"framer-motion@npm:^5.4.5":
+  version: 5.4.5
+  resolution: "framer-motion@npm:5.4.5"
   dependencies:
     "@emotion/is-prop-valid": ^0.8.2
     framesync: 6.0.1
@@ -2388,7 +2388,7 @@ __metadata:
       optional: true
     three:
       optional: true
-  checksum: 04dbad9a9c3f36f0435b5e752b118dcad685a5dbaec80db60925348765342e15a13ae16b67a60e9616d33c18c0a67e58badf8de3f1b6d716d2324080f7a09238
+  checksum: f39f3067b2b594e9f47e780245169e180ccae0e8d4901019bfab598f4ca7c5482811bdf6ecacacb587d7ec939f19928c43232b3a34ca3e18168cb3663f9536e2
   languageName: node
   linkType: hard
 
@@ -4272,7 +4272,7 @@ __metadata:
     autoprefixer: ^10.4.0
     eslint: 7.32.0
     eslint-config-next: 12.0.7
-    framer-motion: ^5.4.4
+    framer-motion: ^5.4.5
     next: 12.0.7
     next-themes: ^0.0.15
     postcss: ^8.4.4
