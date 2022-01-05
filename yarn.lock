@@ -4163,18 +4163,19 @@ __metadata:
     react-dom: 17.0.2
     react-icons: ^4.3.1
     sharp: ^0.29.3
-    tailwindcss: ^3.0.10
+    tailwindcss: ^3.0.11
     typescript: 4.5.4
   languageName: unknown
   linkType: soft
 
-"postcss-js@npm:^3.0.3":
-  version: 3.0.3
-  resolution: "postcss-js@npm:3.0.3"
+"postcss-js@npm:^4.0.0":
+  version: 4.0.0
+  resolution: "postcss-js@npm:4.0.0"
   dependencies:
     camelcase-css: ^2.0.1
-    postcss: ^8.1.6
-  checksum: cc17f59f2b9bb22ed1cf9daab1f9944635b0713dce923ff7d9fd10b89393fc9aa1fab43a97f9a71295827fa32c9676d52661d7d6a693ecc0c41541ee928c781e
+  peerDependencies:
+    postcss: ^8.3.3
+  checksum: 14be8a58670b4c5d037d40f179240a4f736d53530db727e2635638fa296bc4bff18149ca860928398aace422e55d07c9f5729eeccd395340944985199cdc82a5
   languageName: node
   linkType: hard
 
@@ -4240,17 +4241,6 @@ __metadata:
     nanoid: ^3.1.23
     source-map: ^0.6.1
   checksum: 07c309e5318843cdbb240b19101c8c679e19cb88544811de921dd9125118d6c0603afe925da7f2ac928dd7d4c0c6380ccdedf032400af5013210a3f145baca5d
-  languageName: node
-  linkType: hard
-
-"postcss@npm:^8.1.6":
-  version: 8.3.6
-  resolution: "postcss@npm:8.3.6"
-  dependencies:
-    colorette: ^1.2.2
-    nanoid: ^3.1.23
-    source-map-js: ^0.6.2
-  checksum: ff55b91bea21f42c2a94d77fd05c3f66dd15889c68506cf1dbb9cdee8c3b9e9d0e219bcbc6e61a107bd63e3cac0670176486e2a5794c106a4e1b9babceb79317
   languageName: node
   linkType: hard
 
@@ -4917,13 +4907,6 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"source-map-js@npm:^0.6.2":
-  version: 0.6.2
-  resolution: "source-map-js@npm:0.6.2"
-  checksum: 9c8151a29e00fd8d3ba87709fdf9a9ce48313d653f4a29a39b4ae53d346ac79e005de624796ff42eff55cbaf26d2e87f4466001ca87831d400d818c5cf146a0e
-  languageName: node
-  linkType: hard
-
 "source-map-js@npm:^1.0.1":
   version: 1.0.1
   resolution: "source-map-js@npm:1.0.1"
@@ -5255,9 +5238,9 @@ resolve@^2.0.0-next.3:
   languageName: node
   linkType: hard
 
-"tailwindcss@npm:^3.0.10":
-  version: 3.0.10
-  resolution: "tailwindcss@npm:3.0.10"
+"tailwindcss@npm:^3.0.11":
+  version: 3.0.11
+  resolution: "tailwindcss@npm:3.0.11"
   dependencies:
     arg: ^5.0.1
     chalk: ^4.1.2
@@ -5272,7 +5255,7 @@ resolve@^2.0.0-next.3:
     is-glob: ^4.0.3
     normalize-path: ^3.0.0
     object-hash: ^2.2.0
-    postcss-js: ^3.0.3
+    postcss-js: ^4.0.0
     postcss-load-config: ^3.1.0
     postcss-nested: 5.0.6
     postcss-selector-parser: ^6.0.7
@@ -5285,7 +5268,7 @@ resolve@^2.0.0-next.3:
   bin:
     tailwind: lib/cli.js
     tailwindcss: lib/cli.js
-  checksum: 40e7515bdd957d7abbd47ab46e7b9d3530175b1f25e99af7dd2b5656d0f06ba61371f78faf5a8430219217b0e9db76fedd11a3a79ab5a635bd023b106445961e
+  checksum: 50bc9ce20509d9a3b262490cafbf741026362899bada64acfec296ce0de4101432f03102599dd0fe86e20199b5ebc6ff2dfc21dc6d5286c030527a182000a840
   languageName: node
   linkType: hard
 
