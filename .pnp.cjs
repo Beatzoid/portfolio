@@ -48,7 +48,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
             ["sharp", "npm:0.29.3"],
-            ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.11"],
+            ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.12"],
             ["typescript", "patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=32657b"]
           ],
           "linkType": "SOFT",
@@ -4916,7 +4916,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
             ["sharp", "npm:0.29.3"],
-            ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.11"],
+            ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.12"],
             ["typescript", "patch:typescript@npm%3A4.5.4#~builtin<compat/typescript>::version=4.5.4&hash=32657b"]
           ],
           "linkType": "SOFT",
@@ -4952,10 +4952,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:4.0.0", {
-          "packageLocation": "./.yarn/__virtual__/postcss-js-virtual-cee799201d/0/cache/postcss-js-npm-4.0.0-b053712bf0-14be8a5867.zip/node_modules/postcss-js/",
+        ["virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:4.0.0", {
+          "packageLocation": "./.yarn/__virtual__/postcss-js-virtual-24fe037d07/0/cache/postcss-js-npm-4.0.0-b053712bf0-14be8a5867.zip/node_modules/postcss-js/",
           "packageDependencies": [
-            ["postcss-js", "virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:4.0.0"],
+            ["postcss-js", "virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:4.0.0"],
             ["@types/postcss", null],
             ["camelcase-css", "npm:2.0.1"],
             ["postcss", "npm:8.4.5"]
@@ -4975,10 +4975,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:3.1.0", {
-          "packageLocation": "./.yarn/__virtual__/postcss-load-config-virtual-12e7d9288e/0/cache/postcss-load-config-npm-3.1.0-9e1e33c439-7fd62064ea.zip/node_modules/postcss-load-config/",
+        ["virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:3.1.0", {
+          "packageLocation": "./.yarn/__virtual__/postcss-load-config-virtual-bff617952d/0/cache/postcss-load-config-npm-3.1.0-9e1e33c439-7fd62064ea.zip/node_modules/postcss-load-config/",
           "packageDependencies": [
-            ["postcss-load-config", "virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:3.1.0"],
+            ["postcss-load-config", "virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:3.1.0"],
             ["@types/ts-node", null],
             ["import-cwd", "npm:3.0.0"],
             ["lilconfig", "npm:2.0.3"],
@@ -5000,10 +5000,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:5.0.6", {
-          "packageLocation": "./.yarn/__virtual__/postcss-nested-virtual-be4d6a3f5d/0/cache/postcss-nested-npm-5.0.6-d408d3cd6e-dbcbfd11e5.zip/node_modules/postcss-nested/",
+        ["virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:5.0.6", {
+          "packageLocation": "./.yarn/__virtual__/postcss-nested-virtual-d135073a2a/0/cache/postcss-nested-npm-5.0.6-d408d3cd6e-dbcbfd11e5.zip/node_modules/postcss-nested/",
           "packageDependencies": [
-            ["postcss-nested", "virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:5.0.6"],
+            ["postcss-nested", "virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:5.0.6"],
             ["@types/postcss", null],
             ["postcss", "npm:8.4.5"],
             ["postcss-selector-parser", "npm:6.0.6"]
@@ -5025,10 +5025,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:6.0.7", {
-          "packageLocation": "./.yarn/cache/postcss-selector-parser-npm-6.0.7-5aed8e5d90-661808ad62.zip/node_modules/postcss-selector-parser/",
+        ["npm:6.0.8", {
+          "packageLocation": "./.yarn/cache/postcss-selector-parser-npm-6.0.8-280c7fbc49-550351c8d0.zip/node_modules/postcss-selector-parser/",
           "packageDependencies": [
-            ["postcss-selector-parser", "npm:6.0.7"],
+            ["postcss-selector-parser", "npm:6.0.8"],
             ["cssesc", "npm:3.0.0"],
             ["util-deprecate", "npm:1.0.2"]
           ],
@@ -6176,17 +6176,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["tailwindcss", [
-        ["npm:3.0.11", {
-          "packageLocation": "./.yarn/cache/tailwindcss-npm-3.0.11-54fb079f7f-50bc9ce205.zip/node_modules/tailwindcss/",
+        ["npm:3.0.12", {
+          "packageLocation": "./.yarn/cache/tailwindcss-npm-3.0.12-5c1e7a6429-d7de045841.zip/node_modules/tailwindcss/",
           "packageDependencies": [
-            ["tailwindcss", "npm:3.0.11"]
+            ["tailwindcss", "npm:3.0.12"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.11", {
-          "packageLocation": "./.yarn/__virtual__/tailwindcss-virtual-57699a34e3/0/cache/tailwindcss-npm-3.0.11-54fb079f7f-50bc9ce205.zip/node_modules/tailwindcss/",
+        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.12", {
+          "packageLocation": "./.yarn/__virtual__/tailwindcss-virtual-3f10d856ef/0/cache/tailwindcss-npm-3.0.12-5c1e7a6429-d7de045841.zip/node_modules/tailwindcss/",
           "packageDependencies": [
-            ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.11"],
+            ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.12"],
             ["@types/autoprefixer", null],
             ["@types/postcss", null],
             ["arg", "npm:5.0.1"],
@@ -6204,10 +6204,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["normalize-path", "npm:3.0.0"],
             ["object-hash", "npm:2.2.0"],
             ["postcss", "npm:8.4.5"],
-            ["postcss-js", "virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:4.0.0"],
-            ["postcss-load-config", "virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:3.1.0"],
-            ["postcss-nested", "virtual:57699a34e3fd1170af1a9f0ff89a41c21dc019d7e80b7ae462ad697572d659d47c45809caf0d59bdfabbcb5b5b276bef5394945741ecf305beaf2174f4aa94ba#npm:5.0.6"],
-            ["postcss-selector-parser", "npm:6.0.7"],
+            ["postcss-js", "virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:4.0.0"],
+            ["postcss-load-config", "virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:3.1.0"],
+            ["postcss-nested", "virtual:3f10d856ef95835b584f6c938e4b4f030a138e452069d3a255ed58974c7505fba29e7eb362b27b48df35640febcadd5589a5b6d37e4545f757a510592d4e88d0#npm:5.0.6"],
+            ["postcss-selector-parser", "npm:6.0.8"],
             ["postcss-value-parser", "npm:4.2.0"],
             ["quick-lru", "npm:5.1.1"],
             ["resolve", "patch:resolve@npm%3A1.20.0#~builtin<compat/resolve>::version=1.20.0&hash=00b1ff"]
