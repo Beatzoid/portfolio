@@ -2757,14 +2757,14 @@ fsevents@~2.3.2:
   languageName: node
   linkType: hard
 
-"next-themes@npm:^0.0.15":
-  version: 0.0.15
-  resolution: "next-themes@npm:0.0.15"
+"next-themes@npm:^0.1.1":
+  version: 0.1.1
+  resolution: "next-themes@npm:0.1.1"
   peerDependencies:
-    next: "*"
+    next: ">=11.1.1"
     react: "*"
     react-dom: "*"
-  checksum: c85793fa07e08bb060993d4ad8b3a79a9db83d16a0256d3852676621e0ab1b8a013ef984216581d24f29b8c47da2ebfbe456229564e73edd50e89b64f307f174
+  checksum: 226f6af92f3ccccd23c21cd0605aee4fef3482fb8442957a8bae220051af587b63b9fa0b1c8c1c859a7f60b7c8380ebcec98adb3575c903611251917846215e4
   languageName: node
   linkType: hard
 
@@ -3161,7 +3161,7 @@ fsevents@~2.3.2:
     eslint-config-next: 12.1.0
     framer-motion: ^6.2.6
     next: 12.1.0
-    next-themes: ^0.0.15
+    next-themes: ^0.1.1
     postcss: ^8.4.6
     react: 17.0.2
     react-dom: 17.0.2
