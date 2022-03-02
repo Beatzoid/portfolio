@@ -47,7 +47,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.1"],
+            ["sharp", "npm:0.30.2"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.23"],
             ["typescript", "patch:typescript@npm%3A4.6.2#~builtin<compat/typescript>::version=4.6.2&hash=32657b"]
           ],
@@ -1117,10 +1117,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["color", [
-        ["npm:4.2.0", {
-          "packageLocation": "./.yarn/cache/color-npm-4.2.0-ea42aa584e-a5e7d8e8b4.zip/node_modules/color/",
+        ["npm:4.2.1", {
+          "packageLocation": "./.yarn/cache/color-npm-4.2.1-84e5ad29c4-03fb3100a8.zip/node_modules/color/",
           "packageDependencies": [
-            ["color", "npm:4.2.0"],
+            ["color", "npm:4.2.1"],
             ["color-convert", "npm:2.0.1"],
             ["color-string", "npm:1.9.0"]
           ],
@@ -1409,6 +1409,13 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/cache/detect-libc-npm-2.0.0-725ffd9c90-cb96738a4a.zip/node_modules/detect-libc/",
           "packageDependencies": [
             ["detect-libc", "npm:2.0.0"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:2.0.1", {
+          "packageLocation": "./.yarn/cache/detect-libc-npm-2.0.1-2699cb2ac4-ccb05fcabb.zip/node_modules/detect-libc/",
+          "packageDependencies": [
+            ["detect-libc", "npm:2.0.1"]
           ],
           "linkType": "HARD",
         }]
@@ -3759,7 +3766,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.1"],
+            ["sharp", "npm:0.30.2"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.23"],
             ["typescript", "patch:typescript@npm%3A4.6.2#~builtin<compat/typescript>::version=4.6.2&hash=32657b"]
           ],
@@ -4319,12 +4326,12 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["sharp", [
-        ["npm:0.30.1", {
-          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.1-f6bead92d2/node_modules/sharp/",
+        ["npm:0.30.2", {
+          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.2-d65766d9c0/node_modules/sharp/",
           "packageDependencies": [
-            ["sharp", "npm:0.30.1"],
-            ["color", "npm:4.2.0"],
-            ["detect-libc", "npm:2.0.0"],
+            ["sharp", "npm:0.30.2"],
+            ["color", "npm:4.2.1"],
+            ["detect-libc", "npm:2.0.1"],
             ["node-addon-api", "npm:4.3.0"],
             ["node-gyp", "npm:8.2.0"],
             ["prebuild-install", "npm:7.0.1"],
