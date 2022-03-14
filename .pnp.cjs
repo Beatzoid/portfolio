@@ -47,7 +47,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.2"],
+            ["sharp", "npm:0.30.3"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.23"],
             ["typescript", "patch:typescript@npm%3A4.6.2#~builtin<compat/typescript>::version=4.6.2&hash=32657b"]
           ],
@@ -3766,7 +3766,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:17.0.2"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:17.0.2"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.2"],
+            ["sharp", "npm:0.30.3"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.23"],
             ["typescript", "patch:typescript@npm%3A4.6.2#~builtin<compat/typescript>::version=4.6.2&hash=32657b"]
           ],
@@ -4326,10 +4326,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["sharp", [
-        ["npm:0.30.2", {
-          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.2-d65766d9c0/node_modules/sharp/",
+        ["npm:0.30.3", {
+          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.3-360bdcb17e/node_modules/sharp/",
           "packageDependencies": [
-            ["sharp", "npm:0.30.2"],
+            ["sharp", "npm:0.30.3"],
             ["color", "npm:4.2.1"],
             ["detect-libc", "npm:2.0.1"],
             ["node-addon-api", "npm:4.3.0"],
