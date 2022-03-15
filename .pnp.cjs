@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@types/node", "npm:16.11.26"],
             ["@types/react", "npm:17.0.40"],
-            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.2"],
+            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.3"],
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.0"],
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.2.8"],
@@ -835,21 +835,21 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["autoprefixer", [
-        ["npm:10.4.2", {
-          "packageLocation": "./.yarn/cache/autoprefixer-npm-10.4.2-14aeb407cf-dbd13e641e.zip/node_modules/autoprefixer/",
+        ["npm:10.4.3", {
+          "packageLocation": "./.yarn/cache/autoprefixer-npm-10.4.3-77f70bd061-8a168792ba.zip/node_modules/autoprefixer/",
           "packageDependencies": [
-            ["autoprefixer", "npm:10.4.2"]
+            ["autoprefixer", "npm:10.4.3"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.2", {
-          "packageLocation": "./.yarn/__virtual__/autoprefixer-virtual-387c81d60e/0/cache/autoprefixer-npm-10.4.2-14aeb407cf-dbd13e641e.zip/node_modules/autoprefixer/",
+        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.3", {
+          "packageLocation": "./.yarn/__virtual__/autoprefixer-virtual-b612a6b703/0/cache/autoprefixer-npm-10.4.3-77f70bd061-8a168792ba.zip/node_modules/autoprefixer/",
           "packageDependencies": [
-            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.2"],
+            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.3"],
             ["@types/postcss", null],
-            ["browserslist", "npm:4.19.1"],
-            ["caniuse-lite", "npm:1.0.30001297"],
-            ["fraction.js", "npm:4.1.2"],
+            ["browserslist", "npm:4.20.2"],
+            ["caniuse-lite", "npm:1.0.30001317"],
+            ["fraction.js", "npm:4.2.0"],
             ["normalize-range", "npm:0.1.2"],
             ["picocolors", "npm:1.0.0"],
             ["postcss", "npm:8.4.8"],
@@ -941,14 +941,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["browserslist", [
-        ["npm:4.19.1", {
-          "packageLocation": "./.yarn/cache/browserslist-npm-4.19.1-e9de2a4009-c0777fd483.zip/node_modules/browserslist/",
+        ["npm:4.20.2", {
+          "packageLocation": "./.yarn/cache/browserslist-npm-4.20.2-9e0a0d0265-18e09beeae.zip/node_modules/browserslist/",
           "packageDependencies": [
-            ["browserslist", "npm:4.19.1"],
-            ["caniuse-lite", "npm:1.0.30001294"],
-            ["electron-to-chromium", "npm:1.4.29"],
+            ["browserslist", "npm:4.20.2"],
+            ["caniuse-lite", "npm:1.0.30001317"],
+            ["electron-to-chromium", "npm:1.4.85"],
             ["escalade", "npm:3.1.1"],
-            ["node-releases", "npm:2.0.1"],
+            ["node-releases", "npm:2.0.2"],
             ["picocolors", "npm:1.0.0"]
           ],
           "linkType": "HARD",
@@ -1022,24 +1022,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["caniuse-lite", [
-        ["npm:1.0.30001294", {
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001294-c42d943e4c-4e22649ef8.zip/node_modules/caniuse-lite/",
-          "packageDependencies": [
-            ["caniuse-lite", "npm:1.0.30001294"]
-          ],
-          "linkType": "HARD",
-        }],
-        ["npm:1.0.30001297", {
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001297-f320b13c52-4f0d298cf3.zip/node_modules/caniuse-lite/",
-          "packageDependencies": [
-            ["caniuse-lite", "npm:1.0.30001297"]
-          ],
-          "linkType": "HARD",
-        }],
         ["npm:1.0.30001299", {
           "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001299-598464c073-c770f60ebf.zip/node_modules/caniuse-lite/",
           "packageDependencies": [
             ["caniuse-lite", "npm:1.0.30001299"]
+          ],
+          "linkType": "HARD",
+        }],
+        ["npm:1.0.30001317", {
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001317-920e15d04d-0a5fc7fb8c.zip/node_modules/caniuse-lite/",
+          "packageDependencies": [
+            ["caniuse-lite", "npm:1.0.30001317"]
           ],
           "linkType": "HARD",
         }]
@@ -1479,10 +1472,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["electron-to-chromium", [
-        ["npm:1.4.29", {
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.29-3ff3a8bc72-4e80353d29.zip/node_modules/electron-to-chromium/",
+        ["npm:1.4.85", {
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.85-f9e0d80b0e-87cea37f0a.zip/node_modules/electron-to-chromium/",
           "packageDependencies": [
-            ["electron-to-chromium", "npm:1.4.29"]
+            ["electron-to-chromium", "npm:1.4.85"]
           ],
           "linkType": "HARD",
         }]
@@ -2160,10 +2153,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["fraction.js", [
-        ["npm:4.1.2", {
-          "packageLocation": "./.yarn/cache/fraction.js-npm-4.1.2-00af493191-a67eff2b59.zip/node_modules/fraction.js/",
+        ["npm:4.2.0", {
+          "packageLocation": "./.yarn/cache/fraction.js-npm-4.2.0-28efe4afc7-8c76a6e21d.zip/node_modules/fraction.js/",
           "packageDependencies": [
-            ["fraction.js", "npm:4.1.2"]
+            ["fraction.js", "npm:4.2.0"]
           ],
           "linkType": "HARD",
         }]
@@ -3422,10 +3415,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["node-releases", [
-        ["npm:2.0.1", {
-          "packageLocation": "./.yarn/cache/node-releases-npm-2.0.1-77b8e327f7-b20dd8d4bc.zip/node_modules/node-releases/",
+        ["npm:2.0.2", {
+          "packageLocation": "./.yarn/cache/node-releases-npm-2.0.2-a4dc82058a-da858bf86b.zip/node_modules/node-releases/",
           "packageDependencies": [
-            ["node-releases", "npm:2.0.1"]
+            ["node-releases", "npm:2.0.2"]
           ],
           "linkType": "HARD",
         }]
@@ -3756,7 +3749,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["portfolio-website", "workspace:."],
             ["@types/node", "npm:16.11.26"],
             ["@types/react", "npm:17.0.40"],
-            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.2"],
+            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.3"],
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.0"],
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.2.8"],
@@ -4753,7 +4746,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/autoprefixer", null],
             ["@types/postcss", null],
             ["arg", "npm:5.0.1"],
-            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.2"],
+            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.3"],
             ["chalk", "npm:4.1.2"],
             ["chokidar", "npm:3.5.3"],
             ["color-name", "npm:1.1.4"],
