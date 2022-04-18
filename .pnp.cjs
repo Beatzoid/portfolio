@@ -47,7 +47,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.0.0"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.0.0"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.3"],
+            ["sharp", "npm:0.30.4"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.24"],
             ["typescript", "patch:typescript@npm%3A4.6.3#~builtin<compat/typescript>::version=4.6.3&hash=32657b"]
           ],
@@ -1102,10 +1102,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["color", [
-        ["npm:4.2.1", {
-          "packageLocation": "./.yarn/cache/color-npm-4.2.1-84e5ad29c4-03fb3100a8.zip/node_modules/color/",
+        ["npm:4.2.3", {
+          "packageLocation": "./.yarn/cache/color-npm-4.2.3-4a23227581-0579629c02.zip/node_modules/color/",
           "packageDependencies": [
-            ["color", "npm:4.2.1"],
+            ["color", "npm:4.2.3"],
             ["color-convert", "npm:2.0.1"],
             ["color-string", "npm:1.9.0"]
           ],
@@ -3667,7 +3667,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.0.0"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.0.0"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.3"],
+            ["sharp", "npm:0.30.4"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.24"],
             ["typescript", "patch:typescript@npm%3A4.6.3#~builtin<compat/typescript>::version=4.6.3&hash=32657b"]
           ],
@@ -4208,6 +4208,14 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lru-cache", "npm:6.0.0"]
           ],
           "linkType": "HARD",
+        }],
+        ["npm:7.3.7", {
+          "packageLocation": "./.yarn/cache/semver-npm-7.3.7-3bfe704194-2fa3e87756.zip/node_modules/semver/",
+          "packageDependencies": [
+            ["semver", "npm:7.3.7"],
+            ["lru-cache", "npm:6.0.0"]
+          ],
+          "linkType": "HARD",
         }]
       ]],
       ["set-blocking", [
@@ -4220,16 +4228,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["sharp", [
-        ["npm:0.30.3", {
-          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.3-360bdcb17e/node_modules/sharp/",
+        ["npm:0.30.4", {
+          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.4-0b1c493dcc/node_modules/sharp/",
           "packageDependencies": [
-            ["sharp", "npm:0.30.3"],
-            ["color", "npm:4.2.1"],
+            ["sharp", "npm:0.30.4"],
+            ["color", "npm:4.2.3"],
             ["detect-libc", "npm:2.0.1"],
             ["node-addon-api", "npm:4.3.0"],
             ["node-gyp", "npm:8.2.0"],
             ["prebuild-install", "npm:7.0.1"],
-            ["semver", "npm:7.3.5"],
+            ["semver", "npm:7.3.7"],
             ["simple-get", "npm:4.0.1"],
             ["tar-fs", "npm:2.1.1"],
             ["tunnel-agent", "npm:0.6.0"]
