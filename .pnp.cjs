@@ -37,7 +37,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["@types/node", "npm:16.11.33"],
             ["@types/react", "npm:18.0.8"],
-            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.6"],
+            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.5"],
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.3"],
@@ -827,20 +827,20 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["autoprefixer", [
-        ["npm:10.4.6", {
-          "packageLocation": "./.yarn/cache/autoprefixer-npm-10.4.6-87e0921697-4e8fbe94e8.zip/node_modules/autoprefixer/",
+        ["npm:10.4.7", {
+          "packageLocation": "./.yarn/cache/autoprefixer-npm-10.4.7-463a114196-0e55d0d198.zip/node_modules/autoprefixer/",
           "packageDependencies": [
-            ["autoprefixer", "npm:10.4.6"]
+            ["autoprefixer", "npm:10.4.7"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.6", {
-          "packageLocation": "./.yarn/__virtual__/autoprefixer-virtual-846f6e86f0/0/cache/autoprefixer-npm-10.4.6-87e0921697-4e8fbe94e8.zip/node_modules/autoprefixer/",
+        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7", {
+          "packageLocation": "./.yarn/__virtual__/autoprefixer-virtual-55a2002076/0/cache/autoprefixer-npm-10.4.7-463a114196-0e55d0d198.zip/node_modules/autoprefixer/",
           "packageDependencies": [
-            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.6"],
+            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["@types/postcss", null],
             ["browserslist", "npm:4.20.3"],
-            ["caniuse-lite", "npm:1.0.30001334"],
+            ["caniuse-lite", "npm:1.0.30001335"],
             ["fraction.js", "npm:4.2.0"],
             ["normalize-range", "npm:0.1.2"],
             ["picocolors", "npm:1.0.0"],
@@ -1028,10 +1028,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           ],
           "linkType": "HARD",
         }],
-        ["npm:1.0.30001334", {
-          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001334-4dc095c535-1a1c783942.zip/node_modules/caniuse-lite/",
+        ["npm:1.0.30001335", {
+          "packageLocation": "./.yarn/cache/caniuse-lite-npm-1.0.30001335-3a84d29032-fe08b49ec6.zip/node_modules/caniuse-lite/",
           "packageDependencies": [
-            ["caniuse-lite", "npm:1.0.30001334"]
+            ["caniuse-lite", "npm:1.0.30001335"]
           ],
           "linkType": "HARD",
         }]
@@ -3664,7 +3664,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["portfolio-website", "workspace:."],
             ["@types/node", "npm:16.11.33"],
             ["@types/react", "npm:18.0.8"],
-            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.6"],
+            ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.5"],
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.3"],
