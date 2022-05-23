@@ -47,7 +47,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.1.0"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.1.0"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.4"],
+            ["sharp", "npm:0.30.5"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.24"],
             ["typescript", "patch:typescript@npm%3A4.6.4#~builtin<compat/typescript>::version=4.6.4&hash=32657b"]
           ],
@@ -3347,10 +3347,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["node-addon-api", [
-        ["npm:4.3.0", {
-          "packageLocation": "./.yarn/unplugged/node-addon-api-npm-4.3.0-a07a1232df/node_modules/node-addon-api/",
+        ["npm:5.0.0", {
+          "packageLocation": "./.yarn/unplugged/node-addon-api-npm-5.0.0-c0def7fecf/node_modules/node-addon-api/",
           "packageDependencies": [
-            ["node-addon-api", "npm:4.3.0"],
+            ["node-addon-api", "npm:5.0.0"],
             ["node-gyp", "npm:8.2.0"]
           ],
           "linkType": "HARD",
@@ -3697,7 +3697,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.1.0"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.1.0"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.3.1"],
-            ["sharp", "npm:0.30.4"],
+            ["sharp", "npm:0.30.5"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.0.24"],
             ["typescript", "patch:typescript@npm%3A4.6.4#~builtin<compat/typescript>::version=4.6.4&hash=32657b"]
           ],
@@ -3830,10 +3830,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["prebuild-install", [
-        ["npm:7.0.1", {
-          "packageLocation": "./.yarn/cache/prebuild-install-npm-7.0.1-f63021d62e-117c8966f2.zip/node_modules/prebuild-install/",
+        ["npm:7.1.0", {
+          "packageLocation": "./.yarn/cache/prebuild-install-npm-7.1.0-b3cb7113d3-204f2d89c6.zip/node_modules/prebuild-install/",
           "packageDependencies": [
-            ["prebuild-install", "npm:7.0.1"],
+            ["prebuild-install", "npm:7.1.0"],
             ["detect-libc", "npm:2.0.0"],
             ["expand-template", "npm:2.0.3"],
             ["github-from-package", "npm:0.0.0"],
@@ -4258,15 +4258,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["sharp", [
-        ["npm:0.30.4", {
-          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.4-0b1c493dcc/node_modules/sharp/",
+        ["npm:0.30.5", {
+          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.5-36f03eb11a/node_modules/sharp/",
           "packageDependencies": [
-            ["sharp", "npm:0.30.4"],
+            ["sharp", "npm:0.30.5"],
             ["color", "npm:4.2.3"],
             ["detect-libc", "npm:2.0.1"],
-            ["node-addon-api", "npm:4.3.0"],
+            ["node-addon-api", "npm:5.0.0"],
             ["node-gyp", "npm:8.2.0"],
-            ["prebuild-install", "npm:7.0.1"],
+            ["prebuild-install", "npm:7.1.0"],
             ["semver", "npm:7.3.7"],
             ["simple-get", "npm:4.0.1"],
             ["tar-fs", "npm:2.1.1"],
