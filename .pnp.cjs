@@ -36,7 +36,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@types/node", "npm:16.11.37"],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.6"],
@@ -407,10 +407,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/react", [
-        ["npm:18.0.9", {
-          "packageLocation": "./.yarn/cache/@types-react-npm-18.0.9-4dccadcd56-162364dad7.zip/node_modules/@types/react/",
+        ["npm:18.0.10", {
+          "packageLocation": "./.yarn/cache/@types-react-npm-18.0.10-d133f2f961-333c99bd46.zip/node_modules/@types/react/",
           "packageDependencies": [
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["@types/prop-types", "npm:15.7.4"],
             ["@types/scheduler", "npm:0.16.2"],
             ["csstype", "npm:3.0.8"]
@@ -2160,7 +2160,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.6"],
             ["@emotion/is-prop-valid", "npm:0.8.8"],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["@types/react-dom", null],
             ["framesync", "npm:6.0.1"],
             ["hey-listen", "npm:1.0.8"],
@@ -3279,7 +3279,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@next/swc-win32-x64-msvc", "npm:12.1.6"],
             ["@types/fibers", null],
             ["@types/node-sass", null],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["@types/react-dom", null],
             ["@types/sass", null],
             ["caniuse-lite", "npm:1.0.30001332"],
@@ -3319,7 +3319,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.2.0"],
             ["@types/next", null],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["@types/react-dom", null],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.6"],
             ["react", "npm:18.1.0"],
@@ -3686,7 +3686,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["portfolio-website", "workspace:."],
             ["@types/node", "npm:16.11.37"],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:7.32.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.6"],
@@ -3994,7 +3994,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/react-dom-virtual-67c3379a8a/0/cache/react-dom-npm-18.1.0-bd83695a9a-bb0d48eeb0.zip/node_modules/react-dom/",
           "packageDependencies": [
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.1.0"],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["loose-envify", "npm:1.4.0"],
             ["react", "npm:18.1.0"],
             ["scheduler", "npm:0.22.0"]
@@ -4018,7 +4018,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/react-icons-virtual-3444f73b3c/0/cache/react-icons-npm-4.4.0-a6c91164a4-dd93a1dcc8.zip/node_modules/react-icons/",
           "packageDependencies": [
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.4.0"],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["react", "npm:18.1.0"]
           ],
           "packagePeers": [
@@ -4615,7 +4615,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["styled-jsx", "virtual:be0e14ed3d3d55200cff1293ed34bbd195992c839e7a5f08ab747efc634025673eeb801c5788ee390243f3f95f82d8d8effab387023d9647824d6198d00ed898#npm:5.0.2"],
             ["@babel/core", null],
-            ["@types/react", "npm:18.0.9"],
+            ["@types/react", "npm:18.0.10"],
             ["babel-plugin-macros", null],
             ["react", "npm:18.1.0"]
           ],
