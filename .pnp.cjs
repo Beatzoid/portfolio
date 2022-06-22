@@ -47,7 +47,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.2.0"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.4.0"],
-            ["sharp", "npm:0.30.6"],
+            ["sharp", "npm:0.30.7"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.1.4"],
             ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=32657b"]
           ],
@@ -3706,7 +3706,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["react", "npm:18.2.0"],
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.2.0"],
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.4.0"],
-            ["sharp", "npm:0.30.6"],
+            ["sharp", "npm:0.30.7"],
             ["tailwindcss", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:3.1.4"],
             ["typescript", "patch:typescript@npm%3A4.7.4#~builtin<compat/typescript>::version=4.7.4&hash=32657b"]
           ],
@@ -3864,10 +3864,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["prebuild-install", [
-        ["npm:7.1.0", {
-          "packageLocation": "./.yarn/cache/prebuild-install-npm-7.1.0-b3cb7113d3-204f2d89c6.zip/node_modules/prebuild-install/",
+        ["npm:7.1.1", {
+          "packageLocation": "./.yarn/cache/prebuild-install-npm-7.1.1-cb9fc9d341-dbf96d0146.zip/node_modules/prebuild-install/",
           "packageDependencies": [
-            ["prebuild-install", "npm:7.1.0"],
+            ["prebuild-install", "npm:7.1.1"],
             ["detect-libc", "npm:2.0.0"],
             ["expand-template", "npm:2.0.3"],
             ["github-from-package", "npm:0.0.0"],
@@ -3875,7 +3875,6 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["mkdirp-classic", "npm:0.5.3"],
             ["napi-build-utils", "npm:1.0.2"],
             ["node-abi", "npm:3.3.0"],
-            ["npmlog", "npm:4.1.2"],
             ["pump", "npm:3.0.0"],
             ["rc", "npm:1.2.8"],
             ["simple-get", "npm:4.0.0"],
@@ -4302,15 +4301,15 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["sharp", [
-        ["npm:0.30.6", {
-          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.6-4067fc2ceb/node_modules/sharp/",
+        ["npm:0.30.7", {
+          "packageLocation": "./.yarn/unplugged/sharp-npm-0.30.7-6db6fef43e/node_modules/sharp/",
           "packageDependencies": [
-            ["sharp", "npm:0.30.6"],
+            ["sharp", "npm:0.30.7"],
             ["color", "npm:4.2.3"],
             ["detect-libc", "npm:2.0.1"],
             ["node-addon-api", "npm:5.0.0"],
             ["node-gyp", "npm:8.2.0"],
-            ["prebuild-install", "npm:7.1.0"],
+            ["prebuild-install", "npm:7.1.1"],
             ["semver", "npm:7.3.7"],
             ["simple-get", "npm:4.0.1"],
             ["tar-fs", "npm:2.1.1"],
