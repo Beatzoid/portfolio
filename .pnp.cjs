@@ -40,7 +40,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:8.18.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.6"],
-            ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.15"],
+            ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.16"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.6"],
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.2.0"],
             ["postcss", "npm:8.4.14"],
@@ -2022,17 +2022,17 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["framer-motion", [
-        ["npm:6.3.15", {
-          "packageLocation": "./.yarn/cache/framer-motion-npm-6.3.15-425bca698f-d761745e25.zip/node_modules/framer-motion/",
+        ["npm:6.3.16", {
+          "packageLocation": "./.yarn/cache/framer-motion-npm-6.3.16-853aadfb11-f60df0181f.zip/node_modules/framer-motion/",
           "packageDependencies": [
-            ["framer-motion", "npm:6.3.15"]
+            ["framer-motion", "npm:6.3.16"]
           ],
           "linkType": "SOFT",
         }],
-        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.15", {
-          "packageLocation": "./.yarn/__virtual__/framer-motion-virtual-059257bc2a/0/cache/framer-motion-npm-6.3.15-425bca698f-d761745e25.zip/node_modules/framer-motion/",
+        ["virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.16", {
+          "packageLocation": "./.yarn/__virtual__/framer-motion-virtual-29408c7ded/0/cache/framer-motion-npm-6.3.16-853aadfb11-f60df0181f.zip/node_modules/framer-motion/",
           "packageDependencies": [
-            ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.15"],
+            ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.16"],
             ["@emotion/is-prop-valid", "npm:0.8.8"],
             ["@types/react", "npm:18.0.14"],
             ["@types/react-dom", null],
@@ -3533,7 +3533,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:8.18.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.6"],
-            ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.15"],
+            ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.3.16"],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.1.6"],
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.2.0"],
             ["postcss", "npm:8.4.14"],
