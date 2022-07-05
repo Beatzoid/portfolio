@@ -36,7 +36,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./",
           "packageDependencies": [
             ["@types/node", "npm:16.11.43"],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:8.19.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.2.0"],
@@ -467,10 +467,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]
       ]],
       ["@types/react", [
-        ["npm:18.0.14", {
-          "packageLocation": "./.yarn/cache/@types-react-npm-18.0.14-8bf0a6b01e-608eb57a38.zip/node_modules/@types/react/",
+        ["npm:18.0.15", {
+          "packageLocation": "./.yarn/cache/@types-react-npm-18.0.15-5275c78b86-e22cc388d1.zip/node_modules/@types/react/",
           "packageDependencies": [
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["@types/prop-types", "npm:15.7.4"],
             ["@types/scheduler", "npm:0.16.2"],
             ["csstype", "npm:3.0.8"]
@@ -2122,7 +2122,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["framer-motion", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:6.4.1"],
             ["@emotion/is-prop-valid", "npm:0.8.8"],
             ["@motionone/dom", "npm:10.11.0"],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["@types/react-dom", null],
             ["framesync", "npm:6.0.1"],
             ["hey-listen", "npm:1.0.8"],
@@ -3203,7 +3203,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@swc/helpers", "npm:0.4.2"],
             ["@types/fibers", null],
             ["@types/node-sass", null],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["@types/react-dom", null],
             ["@types/sass", null],
             ["caniuse-lite", "npm:1.0.30001332"],
@@ -3244,7 +3244,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["next-themes", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:0.2.0"],
             ["@types/next", null],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["@types/react-dom", null],
             ["next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.2.0"],
             ["react", "npm:18.2.0"],
@@ -3620,7 +3620,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["portfolio-website", "workspace:."],
             ["@types/node", "npm:16.11.43"],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["autoprefixer", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:10.4.7"],
             ["eslint", "npm:8.19.0"],
             ["eslint-config-next", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:12.2.0"],
@@ -3943,7 +3943,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/react-dom-virtual-8efbd83b2a/0/cache/react-dom-npm-18.2.0-dd675bca1c-7d323310be.zip/node_modules/react-dom/",
           "packageDependencies": [
             ["react-dom", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:18.2.0"],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["loose-envify", "npm:1.4.0"],
             ["react", "npm:18.2.0"],
             ["scheduler", "npm:0.23.0"]
@@ -3967,7 +3967,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/react-icons-virtual-3444f73b3c/0/cache/react-icons-npm-4.4.0-a6c91164a4-dd93a1dcc8.zip/node_modules/react-icons/",
           "packageDependencies": [
             ["react-icons", "virtual:81c2d523104052bef602ad197c49f1693b3146f4297f30c2dd5ed92326ea315e0d7fdc470683f36cfa998cdc6601d209b4deedfae7c32fd57568d47a43add58f#npm:4.4.0"],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["react", "npm:18.2.0"]
           ],
           "packagePeers": [
@@ -4526,7 +4526,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [
             ["styled-jsx", "virtual:7132b9a94b183776b5eb8e53a6f4f2b7054712040dcdcbca053c51005d02375ce631c173b0e9cc753d4766269723e85e12fe6afc9fadb5653dff9bbe6cef0437#npm:5.0.2"],
             ["@babel/core", null],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["babel-plugin-macros", null],
             ["react", "npm:18.2.0"]
           ],
@@ -4814,7 +4814,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageLocation": "./.yarn/__virtual__/use-sync-external-store-virtual-893172d300/0/cache/use-sync-external-store-npm-1.1.0-dcd59c7439-8993a0b642.zip/node_modules/use-sync-external-store/",
           "packageDependencies": [
             ["use-sync-external-store", "virtual:7132b9a94b183776b5eb8e53a6f4f2b7054712040dcdcbca053c51005d02375ce631c173b0e9cc753d4766269723e85e12fe6afc9fadb5653dff9bbe6cef0437#npm:1.1.0"],
-            ["@types/react", "npm:18.0.14"],
+            ["@types/react", "npm:18.0.15"],
             ["react", "npm:18.2.0"]
           ],
           "packagePeers": [
